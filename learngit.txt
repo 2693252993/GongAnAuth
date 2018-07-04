@@ -1,0 +1,2 @@
+git add learngit.txt gitcommit−m“firstcommit”
+git push -u origin master
