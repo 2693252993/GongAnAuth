@@ -1,0 +1,14 @@
+{
+  "name": "cordova.plugin.GongAnAuth",
+  "version": "0.0.1",
+  "description": "公安授权认证",
+  "cordova": {
+    "id": "cordova.plugin.GongAnAuth",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "TT",
+  "license": "ISC"
+}
